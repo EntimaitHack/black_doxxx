@@ -53,6 +53,6 @@ Ensure the following tools are installed and available in your system PATH:
 ### Example
 
 ```bash
-./auto.sh -d example.com -o /path/to/output
+./black_doxxx.sh -d example.com -o /path/to/output
 
 ```
