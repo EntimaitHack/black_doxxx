@@ -1,7 +1,7 @@
 
 ## Overview
 
-## use with your own responsiblty and author is not responsible. 
+## Use with your own responsiblty and author is not responsible. 
 
 Black Doxxx is an automated domain reconnaissance tool designed to streamline the process of gathering information about target domains. By integrating various tools,Black Doxxx  automates the collection of subdomains, checks for vulnerabilities, and gathers related information, storing results in a structured manner for further analysis.
 
